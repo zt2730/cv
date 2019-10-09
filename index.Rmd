@@ -1,6 +1,6 @@
 ---
-title: "Guangchuang Yu's CV"
-author: Guangchuang Yu
+title: "Tao Zhang's CV"
+author: Tao Zhang
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -184,12 +184,12 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 
-- <i class="fa fa-envelope"></i> guangchuangyu@gmail.com
+- <i class="fa fa-envelope"></i> taozhang@sdu.edu.cn
 - <i class="fa fa-twitter"></i> guangchuangyu
-- <i class="fa fa-github"></i> github.com/GuangchuangYu
-- <i class="fa fa-link"></i> guangchuangyu.github.io
+- <i class="fa fa-github"></i> github.com/zt2730
+- <i class="fa fa-link"></i> taozhang.github.io
 - <i class="fa fa-weixin"></i> biobabble
-- <i class="fa fa-phone"></i> (86) 13826432521
+- <i class="fa fa-phone"></i> (86) 18753192516
 
 
 
